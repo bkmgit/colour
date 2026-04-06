@@ -2018,7 +2018,7 @@ class PortGraph(PortNode):
                     shape="record",
                 )
             )
-            input_edges, output_edges = node.edges
+            input_edges, _output_edges = node.edges
 
             for edge in input_edges:
                 # Not drawing node edges that involve a node member of graph.
