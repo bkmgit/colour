@@ -2469,6 +2469,10 @@ Software
 - `Psychtoolbox <http://psychtoolbox.org>`__ by Brainard, D., et al.
 - `The Munsell and Kubelka-Munk Toolbox <http://www.munsellcolourscienceforpainters.com/MunsellAndKubelkaMunkToolbox/MunsellAndKubelkaMunkToolbox.html>`__ by Centore, P.
 
+**C**
+
+- `Little CMS <https://github.com/mm2/Little-CMS>`__ by Maria, M., et al.
+
 Code of Conduct
 ---------------
 
